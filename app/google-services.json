@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501421469358",
+    "project_id": "fir-chattest-91778",
+    "storage_bucket": "fir-chattest-91778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501421469358:android:19e9f8fcb99b7ebdae873f",
+        "android_client_info": {
+          "package_name": "com.borg.blabble"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMgpGmrx8U0oJ8-N13uVc0xHMEpW2Iv0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
